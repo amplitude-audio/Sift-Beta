@@ -43,6 +43,5 @@ macOS 12 (Monterey) or later, Apple Silicon or Intel.
 ---
 
 <div align="center">
-<sub>Release artifacts and issues only — the source lives elsewhere.</sub><br>
 <sub>© Amplitude Audio LLC</sub>
 </div>
